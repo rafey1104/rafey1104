@@ -1,4 +1,4 @@
-[![MasterHead](https://media.geeksforgeeks.org/wp-content/uploads/20221123153249/SkillsRequiredtoBecomeaBackendDeveloper.png)]
+![MasterHead](https://media.geeksforgeeks.org/wp-content/uploads/20221123153249/SkillsRequiredtoBecomeaBackendDeveloper.png)
 <h1 align="center">Hi 👋, I'm Rafey Ahmed</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
 
