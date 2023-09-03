@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Freelance Projects**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DevOps, MLOps & AI**
 
 - 📝 I regularly write articles on new tech stuff that I learn. You can find my articles on hashnode.
 
