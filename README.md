@@ -9,6 +9,10 @@
 
 - 🔭 I’m currently working on **Freelance Projects**
 
+- 🔌💻 I’m passionate about **Technology** and **Programming**
+
+- 🛠️💾 I'm mostly experienced with **backend** and I've been using the **Node.js Stack** 🚀🖥️
+
 - 🌱 I’m currently learning **DevOps, MLOps & AI**
 
 - 📝 I regularly write articles on new tech stuff that I learn. You can find my articles on hashnode.
