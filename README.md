@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rafey1104" target="blank"><img src="https://img.shields.io/twitter/follow/rafey1104?logo=twitter&style=for-the-badge" alt="rafey1104" /></a> </p>
 
-- 🔭 I’m currently working on **Freelance Projects**
+- 🔭 I’m currently studying my MSc in Computer Science @ **TU Darmstadt**
 
 - 🔌💻 I’m passionate about **Technology** and **Programming**
 
