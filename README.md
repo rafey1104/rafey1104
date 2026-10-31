@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **rafeyahmed1104@gmail.com**
+- 📫 How to reach me **syedrafey448@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
